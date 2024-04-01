@@ -1,7 +1,7 @@
-## NAME: PRADEEP V
-## REG NO: 212223240119
+                                                                  Name:Pradeep V
+                                                                  Reg No:212223240119
 
-# Fitting Poisson  distribution
+# EX-2:Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
